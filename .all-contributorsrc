@@ -15,6 +15,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "hs-zhangsan",
+      "name": "hs-zhangsan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81799804?v=4",
+      "profile": "https://github.com/hs-zhangsan",
+      "contributions": [
+        "content",
+        "test",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
