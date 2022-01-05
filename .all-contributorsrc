@@ -15,6 +15,16 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "jokereven",
+      "name": "周靖",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73232691?v=4",
+      "profile": "http://blog.code520.com.cn",
+      "contributions": [
+        "content",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
