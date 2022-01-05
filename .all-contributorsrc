@@ -15,6 +15,19 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "Dearanlan",
+      "name": "Dearanlan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50802482?v=4",
+      "profile": "https://github.com/Dearanlan",
+      "contributions": [
+        "content",
+        "test",
+        "bug",
+        "data",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
