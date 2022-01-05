@@ -15,6 +15,19 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "leo1328",
+      "name": "leo1328",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63953481?v=4",
+      "profile": "https://github.com/leo1328",
+      "contributions": [
+        "content",
+        "test",
+        "bug",
+        "data",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
