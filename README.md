@@ -1,6 +1,6 @@
 # 面试鸭
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 > 一个干净免费的面试刷题网站
@@ -144,6 +144,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.code-nav.cn"><img src="https://avatars.githubusercontent.com/u/26037703?v=4?s=100" width="100px;" alt=""/><br /><sub><b>程序员鱼皮</b></sub></a><br /><a href="#infra-liyupi" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/liyupi/mianshiya/commits?author=liyupi" title="Tests">⚠️</a> <a href="https://github.com/liyupi/mianshiya/commits?author=liyupi" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/leo1328"><img src="https://avatars.githubusercontent.com/u/63953481?v=4?s=100" width="100px;" alt=""/><br /><sub><b>leo1328</b></sub></a><br /><a href="#content-leo1328" title="Content">🖋</a> <a href="https://github.com/liyupi/mianshiya/commits?author=leo1328" title="Tests">⚠️</a> <a href="https://github.com/liyupi/mianshiya/issues?q=author%3Aleo1328" title="Bug reports">🐛</a> <a href="#data-leo1328" title="Data">🔣</a> <a href="https://github.com/liyupi/mianshiya/pulls?q=is%3Apr+reviewed-by%3Aleo1328" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
