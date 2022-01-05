@@ -15,6 +15,16 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "huomingfei",
+      "name": "huomingfei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97112578?v=4",
+      "profile": "https://github.com/huomingfei",
+      "contributions": [
+        "content",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
