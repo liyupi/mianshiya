@@ -15,6 +15,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "fw900",
+      "name": "fw900",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74228507?v=4",
+      "profile": "https://github.com/fw900",
+      "contributions": [
+        "content",
+        "test",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
