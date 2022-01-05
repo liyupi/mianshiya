@@ -15,6 +15,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "miyou2321",
+      "name": "miyou2321",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97110803?v=4",
+      "profile": "https://github.com/miyou2321",
+      "contributions": [
+        "content",
+        "test",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
