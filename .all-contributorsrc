@@ -15,6 +15,18 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "17393186438",
+      "name": "是宝玉呐",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67416651?v=4",
+      "profile": "https://github.com/17393186438",
+      "contributions": [
+        "content",
+        "test",
+        "bug",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
