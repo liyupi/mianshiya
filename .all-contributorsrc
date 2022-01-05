@@ -15,6 +15,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "JuiceApp1e",
+      "name": "JuiceApp1e",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80675037?v=4",
+      "profile": "https://github.com/JuiceApp1e",
+      "contributions": [
+        "content",
+        "test",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
