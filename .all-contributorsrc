@@ -15,6 +15,27 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "taiyang",
+      "name": "Tai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11793873?v=4",
+      "profile": "https://github.com/taiyang",
+      "contributions": [
+        "content",
+        "test",
+        "review"
+      ]
+    },
+    {
+      "login": "Luo-0518",
+      "name": "Luo-0518",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92662475?v=4",
+      "profile": "https://github.com/Luo-0518",
+      "contributions": [
+        "content",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
