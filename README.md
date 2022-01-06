@@ -50,8 +50,7 @@
 
 **专注** 面试刷题，本就是鸭鸭最大的不同！
 
-![专注面试题](https://qiniuyun.code-nav.cn/img/image-20220107003536345.png)
-
+![专注面试题](https://qiniuyun.code-nav.cn/img/image-20220107004158194.png)
 
 ## 功能
 
