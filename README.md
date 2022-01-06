@@ -9,8 +9,9 @@
 
 
 
-地址：https://mianshiya.com
+地址：[https://mianshiya.com](https://mianshiya.com)
 
+视频介绍：[欢迎点赞、收藏、投币三连入股](https://www.bilibili.com/video/BV1hu411U7Cc/)
 
 
 ![面试鸭主页](https://qiniuyun.code-nav.cn/img/image-20220104232606368.png)
@@ -45,6 +46,11 @@
 - 效率：灵活选题，高效刷题
 - ~~多端适配（算个毛的优势）~~
 
+## 项目定位
+
+**专注** 面试刷题，本就是鸭鸭最大的不同！
+
+![专注面试题](https://qiniuyun.code-nav.cn/img/image-20220107003536345.png)
 
 
 ## 功能
