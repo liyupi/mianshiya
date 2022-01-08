@@ -9,8 +9,9 @@
 
 
 
-地址：https://mianshiya.com
+地址：[https://mianshiya.com](https://mianshiya.com)
 
+视频介绍：[欢迎点赞、收藏、投币三连入股](https://www.bilibili.com/video/BV1hu411U7Cc/)
 
 
 ![面试鸭主页](https://qiniuyun.code-nav.cn/img/image-20220104232606368.png)
@@ -45,7 +46,11 @@
 - 效率：灵活选题，高效刷题
 - ~~多端适配（算个毛的优势）~~
 
+## 项目定位
 
+**专注** 面试刷题，本就是鸭鸭最大的不同！
+
+![专注面试题](https://qiniuyun.code-nav.cn/img/image-20220107004158194.png)
 
 ## 功能
 
@@ -145,6 +150,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://www.code-nav.cn"><img src="https://avatars.githubusercontent.com/u/26037703?v=4?s=100" width="100px;" alt=""/><br /><sub><b>程序员鱼皮</b></sub></a><br /><a href="#infra-liyupi" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/liyupi/mianshiya/commits?author=liyupi" title="Tests">⚠️</a> <a href="https://github.com/liyupi/mianshiya/commits?author=liyupi" title="Code">💻</a></td>
     <td align="center"><a href="http://blog.code520.com.cn"><img src="https://avatars.githubusercontent.com/u/73232691?v=4?s=100" width="100px;" alt=""/><br /><sub><b>周靖</b></sub></a><br /><a href="#content-jokereven" title="Content">🖋</a> <a href="https://github.com/liyupi/mianshiya/commits?author=jokereven" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/taiyang"><img src="https://avatars.githubusercontent.com/u/11793873?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tai</b></sub></a><br /><a href="#content-taiyang" title="Content">🖋</a> <a href="https://github.com/liyupi/mianshiya/commits?author=taiyang" title="Tests">⚠️</a> <a href="https://github.com/liyupi/mianshiya/pulls?q=is%3Apr+reviewed-by%3Ataiyang" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/Luo-0518"><img src="https://avatars.githubusercontent.com/u/92662475?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Luo-0518</b></sub></a><br /><a href="#content-Luo-0518" title="Content">🖋</a> <a href="https://github.com/liyupi/mianshiya/commits?author=Luo-0518" title="Tests">⚠️</a></td>
   </tr>
 </table>
 
