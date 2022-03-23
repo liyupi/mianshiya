@@ -1,0 +1,12 @@
+{
+  "name": "countMyMessages",
+  "version": "1.0.0",
+  "description": "查询我的消息数",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.5.0"
+  }
+}

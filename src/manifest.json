@@ -1,0 +1,22 @@
+{
+  "name": "面试鸭",
+  "short_name": "mianshiya",
+  "display": "standalone",
+  "start_url": "./?utm_source=homescreen",
+  "theme_color": "#002140",
+  "background_color": "#001529",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512"
+    }
+  ]
+}

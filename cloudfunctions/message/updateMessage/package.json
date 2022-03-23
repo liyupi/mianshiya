@@ -1,0 +1,12 @@
+{
+  "name": "updateMessage",
+  "version": "1.0.0",
+  "description": "更新消息",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.5.0"
+  }
+}

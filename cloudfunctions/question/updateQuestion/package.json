@@ -1,0 +1,14 @@
+{
+  "name": "updateQuestion",
+  "version": "1.0.0",
+  "description": "更新题目",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.5.0",
+    "cheerio": "^1.0.0-rc.10",
+    "xss": "^1.0.10"
+  }
+}

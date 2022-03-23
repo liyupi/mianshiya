@@ -1,0 +1,14 @@
+{
+  "name": "redisService",
+  "version": "1.0.0",
+  "description": "Redis 服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.27.3"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "mianshiya-server",
+  "version": "0.0.1",
+  "description": "mianshiya-server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node src/index.js ",
+    "start:dev": "cross-env NODE_ENV=local node src/index.js",
+    "test": "npm test",
+    "dev": "tsc -p tsconfig.json"
+  },
+  "author": "yupi",
+  "dependencies": {
+    "@cloudbase/manager-node": "^3.12.1",
+    "@cloudbase/node-sdk": "^2.5.0",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.10",
+    "connect-redis": "^6.0.0",
+    "cos-nodejs-sdk-v5": "^2.11.6",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "nodemailer": "^6.6.0",
+    "redis": "^3.0.2",
+    "xss": "^1.0.10"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "typescript": "^4.4.2"
+  }
+}

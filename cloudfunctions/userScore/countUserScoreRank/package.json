@@ -1,0 +1,13 @@
+{
+  "name": "countUserScoreRank",
+  "version": "1.0.0",
+  "description": "统计用户积分排行（定时任务）",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.5.0",
+    "moment": "^2.29.1"
+  }
+}

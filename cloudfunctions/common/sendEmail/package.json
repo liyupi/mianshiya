@@ -1,0 +1,19 @@
+{
+  "name": "sendEmail",
+  "version": "1.0.0",
+  "description": "发送邮件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sendEmail",
+    "发送邮件",
+    "nodemailer"
+  ],
+  "author": "cjf",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.6.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "getCaptcha",
+  "version": "1.0.0",
+  "description": "获取动态码（用户注册）",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "1.1.1",
+    "random-string": "^0.2.0"
+  }
+}

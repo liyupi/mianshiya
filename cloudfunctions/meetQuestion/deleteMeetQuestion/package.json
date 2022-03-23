@@ -1,0 +1,12 @@
+{
+  "name": "deleteMeetQuestion",
+  "version": "1.0.0",
+  "description": "删除遇到题目",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.5.0"
+  }
+}

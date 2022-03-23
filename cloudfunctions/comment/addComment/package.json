@@ -1,0 +1,14 @@
+{
+  "name": "addComment",
+  "version": "1.0.0",
+  "description": "创建回答",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.5.0",
+    "cheerio": "^1.0.0-rc.10",
+    "xss": "^1.0.10"
+  }
+}

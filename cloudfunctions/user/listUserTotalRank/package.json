@@ -1,0 +1,12 @@
+{
+  "name": "listUserTotalRank",
+  "version": "1.0.0",
+  "description": "获取用户总排行列表",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.5.0"
+  }
+}

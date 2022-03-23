@@ -1,0 +1,12 @@
+{
+  "name": "getRandomQuestion",
+  "version": "1.0.0",
+  "description": "随机一题",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.5.0"
+  }
+}

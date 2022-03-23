@@ -1,0 +1,12 @@
+{
+  "name": "addQuestionsToES",
+  "version": "1.0.0",
+  "description": "首次同步数据库的题目到 ES",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.5.0"
+  }
+}

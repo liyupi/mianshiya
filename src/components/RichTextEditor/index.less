@@ -1,0 +1,54 @@
+.rich-text-editor {
+  .ql-editor {
+    min-height: 18em;
+  }
+
+  .full-screen-toggle {
+    float: right;
+    margin: 13px 13px 0 0;
+  }
+}
+
+.full-screen {
+  background-color: #fff;
+}
+
+.editor-container {
+  .ql-editor p,
+  .ql-editor ol,
+  .ql-editor ul,
+  .ql-editor pre,
+  .ql-editor blockquote,
+  .ql-editor h1,
+  .ql-editor h2,
+  .ql-editor h3,
+  .ql-editor h4,
+  .ql-editor h5,
+  .ql-editor h6 {
+    margin-bottom: 16px;
+  }
+}
+
+.ql-container {
+  font-size: 15px;
+}
+
+.ql-snow .ql-picker.ql-header .ql-picker-label::before,
+.ql-snow .ql-picker.ql-header .ql-picker-item::before {
+  content: '正文';
+}
+
+.ql-snow .ql-picker.ql-header .ql-picker-label[data-value='1']::before,
+.ql-snow .ql-picker.ql-header .ql-picker-item[data-value='1']::before {
+  content: '标题1';
+}
+
+.ql-snow .ql-picker.ql-header .ql-picker-label[data-value='2']::before,
+.ql-snow .ql-picker.ql-header .ql-picker-item[data-value='2']::before {
+  content: '标题2';
+}
+
+.ql-snow .ql-picker.ql-header .ql-picker-label[data-value='3']::before,
+.ql-snow .ql-picker.ql-header .ql-picker-item[data-value='3']::before {
+  content: '标题3';
+}

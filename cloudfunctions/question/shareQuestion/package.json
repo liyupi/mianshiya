@@ -1,0 +1,12 @@
+{
+  "name": "shareQuestion",
+  "version": "1.0.0",
+  "description": "添加题目分享数",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "1.1.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "getTagsMap",
+  "version": "1.0.0",
+  "description": "获取标签",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

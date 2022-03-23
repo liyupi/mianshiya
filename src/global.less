@@ -1,0 +1,99 @@
+@import '~antd/es/style/themes/default.less';
+@import '~intro.js/introjs.css';
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.colorWeak {
+  filter: invert(80%);
+}
+
+.ant-layout {
+  min-height: 100vh;
+}
+
+.ant-pro-sider.ant-layout-sider.ant-pro-sider-fixed {
+  left: unset;
+}
+
+.ant-layout-header {
+  position: sticky;
+  top: 0;
+}
+
+.ant-pro-top-menu,
+.ant-layout-header {
+  height: 64px !important;
+  line-height: 64px !important;
+}
+
+.ant-page-header {
+  margin: 0 auto;
+}
+
+.ant-pro-global-footer {
+  margin-top: 24px;
+}
+
+.ant-radio-wrapper {
+  margin-bottom: 8px;
+}
+
+.ant-back-top {
+  right: 0 !important;
+}
+
+.ant-back-top-content {
+  border-radius: 0 !important;
+}
+
+canvas {
+  display: block;
+}
+
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+.my-link {
+  color: initial;
+}
+
+.ant-list-vertical .ant-list-item {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+@media (max-width: @screen-xs) {
+  .ant-table {
+    width: 100%;
+    overflow-x: auto;
+    &-thead > tr,
+    &-tbody > tr {
+      > th,
+      > td {
+        white-space: pre;
+        > span {
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+// Compatible with IE11
+@media screen and(-ms-high-contrast: active), (-ms-high-contrast: none) {
+  body .ant-design-pro > .ant-layout {
+    min-height: 100vh;
+  }
+}

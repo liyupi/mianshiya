@@ -1,0 +1,78 @@
+{
+  "version": "2.0",
+  "envId": "{{env.ENV_ID}}",
+  "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
+  "functionRoot": "cloudfunctions",
+  "functions": [
+    {
+      "name": "countUserScoreRank",
+      "runtime": "Nodejs10.15",
+      "triggers": [
+        {
+          "name": "countUserScoreRankTrigger",
+          "type": "timer",
+          "config": "0 0 2 * * * *"
+        }
+      ]
+    },
+    {
+      "name": "redisService",
+      "runtime": "Nodejs10.15",
+      "vpc": {
+        "vpcId": "vpc-kk549o3q",
+        "subnetId": "subnet-2afgdncr"
+      }
+    },
+    {
+      "name": "esService",
+      "runtime": "Nodejs10.15",
+      "vpc": {
+        "vpcId": "vpc-kk549o3q",
+        "subnetId": "subnet-2afgdncr"
+      }
+    },
+    {
+      "name": "syncQuestionsToES",
+      "runtime": "Nodejs10.15",
+      "triggers": [
+        {
+          "name": "syncQuestionsToESTrigger",
+          "type": "timer",
+          "config": "5 * * * * * *",
+          "timeout": 900
+        }
+      ]
+    }
+  ],
+  "framework": {
+    "name": "mianshiya",
+    "plugins": {
+      "client": {
+        "use": "@cloudbase/framework-plugin-website",
+        "inputs": {
+          "buildCommand": "npm run build",
+          "outputPath": "dist",
+          "cloudPath": "/",
+          "envVariables": {
+            "REACT_APP_ENV_ID": "{{env.ENV_ID}}"
+          }
+        }
+      },
+      "auth": {
+        "use": "@cloudbase/framework-plugin-auth",
+        "inputs": {
+          "configs": [
+            {
+              "platform": "NONLOGIN",
+              "status": "DISABLE"
+            },
+            {
+              "platform": "ANONYMOUS",
+              "status": "ENABLE"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
