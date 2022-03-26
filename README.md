@@ -17,6 +17,8 @@
 
 视频介绍：[欢迎点赞、收藏、投币三连](https://www.bilibili.com/video/BV1hu411U7Cc/)
 
+为什么开源？[看视频了解](https://www.bilibili.com/video/BV1LZ4y1B7Q1/)
+
 ![面试鸭主页](https://qiniuyun.code-nav.cn/img/image-20220104232606368.png)
 
 如果你是
@@ -190,6 +192,10 @@ yarn build
 > 代码均在 cloudfunctions 目录中
 
 请阅读 [参考文档](./cloudfunctions/README.md)
+
+## 🍊 进一步学习
+
+如果想进一步了解项目的完整制作过程、系统设计、数据库设计、经验感悟等，欢迎加入鱼皮的 [编程知识星球](https://dogyupi.com) ，在星球内会直播带大家玩转这个项目。
 
 ## 欢迎贡献
 

@@ -12,6 +12,8 @@ yarn
 
 ### 启动服务
 
+> 记得先把 config 中的 mongodb 和 redis 地址换成自己的
+
 以测试环境启动：
 
 ```
