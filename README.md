@@ -13,7 +13,7 @@
 > React + 云开发 / Node.js 全栈项目，包含网站前台 + 管理员后台的完整前后端代码。
 
 
-地址：[https://mianshiya.com](https://mianshiya.com)
+地址：[https://www.mianshiya.com](https://mianshiya.com)
 
 视频介绍：[欢迎点赞、收藏、投币三连](https://www.bilibili.com/video/BV1hu411U7Cc/)
 
