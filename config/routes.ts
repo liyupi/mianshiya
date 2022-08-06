@@ -10,7 +10,7 @@ export default [
           {
             name: '登录',
             path: '/user/login',
-            component: './User/Login',
+            component: './user/Login',
           },
         ],
       },
@@ -156,7 +156,7 @@ export default [
           {
             name: '创建试卷',
             path: '/addPaper',
-            component: './addPaper',
+            component: './AddPaper',
             wrappers: ['@/wrappers/auth'],
           },
           {
