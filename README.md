@@ -15,7 +15,9 @@
 
 地址：[https://www.mianshiya.com](https://mianshiya.com)
 
-视频介绍：[欢迎点赞、收藏、投币三连](https://www.bilibili.com/video/BV1hu411U7Cc/)
+面试鸭全新版本视频介绍：[欢迎点赞、收藏、投币三连](https://bilibili.com/video/BV14E421w7dr/)
+
+开源版本视频介绍：[欢迎点赞、收藏、投币三连](https://www.bilibili.com/video/BV1hu411U7Cc/)
 
 为什么开源？[看视频了解](https://www.bilibili.com/video/BV1LZ4y1B7Q1/)
 
