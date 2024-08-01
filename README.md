@@ -1,4 +1,4 @@
-<img width="1359" alt="image" src="https://github.com/user-attachments/assets/a2787b5b-44b0-4a4f-afb8-a266d264e556"># 面试鸭
+# 面试鸭
 
 ![](https://img.shields.io/badge/React-%5E17.0.0-brightgreen)
 ![](https://img.shields.io/badge/Express-%5E4.17.2-yellow)
