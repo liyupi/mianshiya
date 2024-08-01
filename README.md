@@ -1,4 +1,4 @@
-# 面试鸭
+<img width="1359" alt="image" src="https://github.com/user-attachments/assets/a2787b5b-44b0-4a4f-afb8-a266d264e556"># 面试鸭
 
 ![](https://img.shields.io/badge/React-%5E17.0.0-brightgreen)
 ![](https://img.shields.io/badge/Express-%5E4.17.2-yellow)
@@ -19,9 +19,9 @@
 
 开源版本视频介绍：[欢迎点赞、收藏、投币三连](https://www.bilibili.com/video/BV1hu411U7Cc/)
 
-为什么开源？[看视频了解](https://www.bilibili.com/video/BV1LZ4y1B7Q1/)
+![面试鸭主页](https://github.com/user-attachments/assets/7706bbf9-7ef2-4b66-ae87-4e8c501fe38e)
 
-![面试鸭主页](https://qiniuyun.code-nav.cn/img/image-20220104232606368.png)
+
 
 如果你是
 
