@@ -17,7 +17,7 @@
 
 24 年面试鸭全新版本视频介绍：[欢迎点赞、收藏、投币三连](https://bilibili.com/video/BV14E421w7dr/)
 
-24 年面试鸭教学项目视频介绍：[手把手带你做出自己的面试刷题网站](https://github.com/liyupi/mianshiya-next)
+24 年面试鸭教学版开源项目：[手把手带你做出自己的面试刷题网站](https://github.com/liyupi/mianshiya-next)
 
 22 年面试鸭开源版本视频介绍：[欢迎点赞、收藏、投币三连](https://www.bilibili.com/video/BV1hu411U7Cc/)
 
