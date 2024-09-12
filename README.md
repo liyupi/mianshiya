@@ -13,11 +13,13 @@
 > React + 云开发 / Node.js 全栈项目，包含网站前台 + 管理员后台的完整前后端代码。
 
 
-地址：[https://www.mianshiya.com](https://mianshiya.com)
+地址：[https://mianshiya.com](https://mianshiya.com)
 
-面试鸭全新版本视频介绍：[欢迎点赞、收藏、投币三连](https://bilibili.com/video/BV14E421w7dr/)
+24 年面试鸭全新版本视频介绍：[欢迎点赞、收藏、投币三连](https://bilibili.com/video/BV14E421w7dr/)
 
-开源版本视频介绍：[欢迎点赞、收藏、投币三连](https://www.bilibili.com/video/BV1hu411U7Cc/)
+24 年面试鸭教学项目视频介绍：[手把手带你做出自己的面试刷题网站](https://github.com/liyupi/mianshiya-next)
+
+22 年面试鸭开源版本视频介绍：[欢迎点赞、收藏、投币三连](https://www.bilibili.com/video/BV1hu411U7Cc/)
 
 ![面试鸭主页](https://github.com/user-attachments/assets/7706bbf9-7ef2-4b66-ae87-4e8c501fe38e)
 
