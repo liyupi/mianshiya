@@ -22,6 +22,13 @@
 ![面试鸭主页](https://github.com/user-attachments/assets/32fd8c4e-d76c-42c8-90a1-67822633f73b)
 
 
+## 🌐 Translations
+
+[English](./translations/en/README.md)
+
+---
+
+
 ## 项目背景
 
 如今面试越来越卷了，每场面试必考八股文，所以不得不背诵面试题。
