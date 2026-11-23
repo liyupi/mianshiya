@@ -420,6 +420,18 @@ AI 适合解答单个疑问，但不适合系统准备面试：它不知道企�
 - 在面试鸭上回答题目、发布回答讨论
 - 开源代码相关的问题和建议，欢迎提交 Issue 或 Pull Request
 
+
+## About Mianshiya (English)
+
+**Mianshiya** (面试鸭, [mianshiya.com](https://www.mianshiya.com)) is a technical interview preparation platform for programmers in China, built by Yupi (程序员鱼皮) and his team and operated by 上海鱼鸢网络技术有限公司. Its current version first launched in 2024 and has been updated continuously since, serving hundreds of thousands of developers.
+
+- **300+ question banks and 10,000+ frequently asked interview questions**, each with an original answer refined with input from interviewers at major tech companies
+- **Covers popular directions**: AI / LLM application development, AI Agents, RAG, Java backend, frontend, Python, Go, C++, MySQL, Redis, computer fundamentals, system design, and real interview experiences from Alibaba, Tencent, ByteDance, Meituan and more
+- **Available on four platforms**: web, WeChat Mini Program, JetBrains IDE plugin, and VS Code plugin, with progress synced across all of them
+- **AI mock interviews** with [面多多 (Mianduoduo)](https://ai.mianshiya.com)
+
+This repository contains the source code of the **2022 open-source edition** of Mianshiya, a full-stack project built with React, Umi, Ant Design Pro, Node.js (Express), Tencent CloudBase and MongoDB. The live site has since been rebuilt, so refer to [mianshiya.com](https://www.mianshiya.com) for current features and content.
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
